@@ -1,0 +1,33 @@
+#!/bin/bash
+
+CORONA_DIR=/var/evasi0n
+
+TETHER_BOOT_OK="iPad1,1
+iPhone2,1
+iPhone3,1
+iPhone3,3
+iPod3,1
+iPod4,1"
+
+OS=`sysctl -n kern.osversion`
+PROD=`sysctl -n hw.machine`
+
+case "$1" in
+  upgrade)
+    exit 0
+  ;;
+  *)
+    for I in $TETHER_BOOT_OK; do
+      if [ "$I" == "$PROD" ]; then
+        rm -f $CORONA_DIR/memmove.cache
+        rm -f $CORONA_DIR/cache
+        rm -f $CORONA_DIR/udid
+        echo "WARNING: You've might've just rendered your device unbootable! Consider reinstalling evasi0n 6.0-6.1 untether before you reboot if you're not near a computer."
+        exit 0
+      fi
+    done
+    echo "Refusing to remove this package as this action will render the device unbootable and possibly permanently unjailbreakable."
+    exit 1
+  ;;
+esac
+

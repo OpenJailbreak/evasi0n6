@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%s (iOS %s) is already jailbroken. Jailbreaking it again is NOT recommended.</key>
+	<string>%s (iOS %s) 已越狱，不建议再次越狱。</string>
+	<key>%s (iOS %s) is supported. Click Jailbreak to begin.</key>
+	<string>支持 %s (iOS %s)。点击越狱按钮以开始越狱。</string>
+	<key>%s - Version %s</key>
+	<string>%s - 版本 %s</string>
+	<key>@evad3rs</key>
+	<string>@evad3rs</string>
+	<key>Alright! Remounting will start now. Do NOT tap the icon again -- just wait.</key>
+	<string>好了。现在重新加载进程即将开始。请不要再点击该图标，稍等片刻。</string>
+	<key>Cleaning up...</key>
+	<string>正在清理……</string>
+	<key>Connect your iPhone, iPod touch, or iPad to begin.</key>
+	<string>连接 iPhone 或 iPod touch 或 iPad 以开始越狱。</string>
+	<key>Connecting to device...</key>
+	<string>正在连接到设备……</string>
+	<key>Continuing...</key>
+	<string>正在继续……</string>
+	<key>Could not add file to backup</key>
+	<string>无法添加文件到备份。</string>
+	<key>Could not connect to device!</key>
+	<string>无法连接到设备！</string>
+	<key>Could not connect to device?!</key>
+	<string>无法连接到设备？！</string>
+	<key>Could not create backup.</key>
+	<string>无法创建备份</string>
+	<key>Could not find device in connected state?!</key>
+	<string>找不到处于已连接状态的设备？！</string>
+	<key>Could not get binary plist blob</key>
+	<string>无法获取二进制 plist 数据。</string>
+	<key>Could not get com.apple.mobile.installation.plist</key>
+	<string>无法获取 com.apple.mobile.installation.plist。</string>
+	<key>Could not open backup</key>
+	<string>无法打开备份。</string>
+	<key>Could not remount root filesystem</key>
+	<string>无法加载根文件系统（RFS）。</string>
+	<key>Couldn't add Icon-72.png to backup</key>
+	<string>无法添加 Icon-72.png 到备份。</string>
+	<key>Couldn't add Icon-72@2x.png to backup</key>
+	<string>无法添加 Icon-72@2x.png 到备份。</string>
+	<key>Couldn't add Icon.png to backup</key>
+	<string>无法添加 Icon.png 到备份。</string>
+	<key>Couldn't add Icon@2x.png to backup</key>
+	<string>无法添加 Icon@2x.png 到备份。</string>
+	<key>Couldn't add Info.plist to backup</key>
+	<string>无法添加 Info.plist 到备份。</string>
+	<key>Couldn't add csstore to backup</key>
+	<string>无法添加 csstore 到备份。</string>
+	<key>Couldn't add dir to backup</key>
+	<string>无法添加目录到备份。</string>
+	<key>Couldn't add evasi0n dir</key>
+	<string>无法添加 evasi0n 目录。</string>
+	<key>Couldn't add executable to backup</key>
+	<string>无法添加可执行文件到备份。</string>
+	<key>Couldn't add file to backup</key>
+	<string>无法添加文件到备份。</string>
+	<key>Couldn't add file to backup!</key>
+	<string>无法添加文件到备份！</string>
+	<key>Couldn't add install plist to backup</key>
+	<string>无法添加安装用 plist 文件到备份。</string>
+	<key>Creating backup...</key>
+	<string>正在创建备份……</string>
+	<key>Cydia is missing from resources</key>
+	<string>未找到 Cydia 资源。</string>
+	<key>Device did not reboot?!</key>
+	<string>设备没有重新启动？！</string>
+	<key>Device did not reconnect after reboot?!</key>
+	<string>设备重新启动后没有连接？！</string>
+	<key>Device is locked with a passcode. Please enter it NOW; the procedure will then continue.</key>
+	<string>设备有密码锁定。请输入密码，进程会在输入密码后继续。</string>
+	<key>Done! Continuing boot...</key>
+	<string>完成！正在继续启动……</string>
+	<key>ERROR: Device has a passcode set! If a passcode is set, the jailbreak procedure will most likely fail. Unplug device, go to Settings and DISABLE THE PASSCODE, then plug it back in.</key>
+	<string>错误：设备已设置密码！设备设置密码很可能会导致越狱失败。请断开设备连接，前往设备的设置程序并禁用密码，然后再连接设备。</string>
+	<key>ERROR: could not open backup</key>
+	<string>错误：无法打开备份。</string>
+	<key>Error</key>
+	<string>错误</string>
+	<key>Error detecting device (lockdown error %d)</key>
+	<string>检测设备失败（lockdown 错误 %d）</string>
+	<key>Error detecting device type (idevice error %d)</key>
+	<string>检测设备类型失败（idevice 错误 %d）</string>
+	<key>Error detecting device. Try reconnecting it.</key>
+	<string>检测设备失败。请尝试重新连接设备。</string>
+	<key>Error getting build version (lockdownd error %d)</key>
+	<string>无法获取编译版本号（lockdownd 错误 %d）</string>
+	<key>Error getting product type (lockdown error %d)</key>
+	<string>无法获取产品型号（lockdown 错误 %d）</string>
+	<key>Error getting product version (lockdownd error %d)</key>
+	<string>无法获取产品版本号（lockdownd 错误 %d）</string>
+	<key>Error: Couldn't add file to backup!</key>
+	<string>错误：无法添加文件到备份！</string>
+	<key>Exit</key>
+	<string>退出</string>
+	<key>Failed to get BuildVersion from lockdown.</key>
+	<string>无法从 lockdown 获取编译版本号（BuildVersion）。</string>
+	<key>Failed to get DeviceName from lockdown.</key>
+	<string>无法从 lockdown 获取设备名称（DeviceName）。</string>
+	<key>Failed to get ProductType from lockdown.</key>
+	<string>无法从 lockdown 获取产品型号（ProductType）。</string>
+	<key>Failed to get ProductVersion from lockdown.</key>
+	<string>无法从 lockdown 获取产品版本号（ProductVersion）。</string>
+	<key>Failed to get SerialNumber from lockdown.</key>
+	<string>无法从 lockdown 获取序列号（SerialNumber）。</string>
+	<key>Finding offsets...</key>
+	<string>正在寻找偏移量……</string>
+	<key>Initializing offsets...</key>
+	<string>正在初始化偏移量……</string>
+	<key>Injecting final jailbreak data...</key>
+	<string>正在注入最后阶段的越狱数据……</string>
+	<key>Injecting remount payload...</key>
+	<string>正在注入重新加载用的数据……</string>
+	<key>Injecting stage 1 jailbreak data...</key>
+	<string>正在注入第一阶段所用的越狱数据……</string>
+	<key>Injecting stage 2 jailbreak data (step 1/3)... (Do not touch your device)</key>
+	<string>正在注入第二阶段所用的越狱数据（步骤 1/3）…… （请不要触摸您的设备）</string>
+	<key>Injecting stage 2 jailbreak data (step 2/3)... (Do not touch your device)</key>
+	<string>正在注入第二阶段所用的越狱数据（步骤 2/3）…… （请不要触摸您的设备）</string>
+	<key>Injecting stage 2 jailbreak data (step 3/3)... (Do not touch your device)</key>
+	<string>正在注入第二阶段所用的越狱数据（步骤 3/3）…… （请不要触摸您的设备）</string>
+	<key>Jailbreak</key>
+	<string>越狱</string>
+	<key>Jailbreak complete! The device may restart a few times as it completes the process.</key>
+	<string>越狱完成！设备可能会重新启动几次以完成越狱。</string>
+	<key>NOTE: Please make a backup of your device before applying the jailbreak.
+We don't think there will be any problems, but we can't make any guarantees.
+Use evasi0n at your own risk.</key>
+	<string>注意：请在越狱前备份您的设备数据。
+我们不认为会产生任何问题，但不会做出任何保证。
+使用 evasi0n 请自行承担任何可能的风险。</string>
+	<key>Packagelist is missing from resources</key>
+	<string>找不到软件包列表。</string>
+	<key>Patching kernel...</key>
+	<string>正在修改内核……</string>
+	<key>Please attach only one device.</key>
+	<string>请同时只连接一个设备。</string>
+	<key>Preparing final jailbreak data...</key>
+	<string>正在准备最后阶段的越狱数据……</string>
+	<key>Preparing stage 1 jailbreak data...</key>
+	<string>正在准备第一阶段的越狱数据……</string>
+	<key>Preparing stage 2 jailbreak data... (Do not touch your device)</key>
+	<string>正在准备第二阶段的越狱数据……（请不要触摸您的设备）</string>
+	<key>Rebooting...</key>
+	<string>正在重新启动……</string>
+	<key>Retrieving information from the device to generate jailbreak data...</key>
+	<string>正在从设备获取相关信息以生成越狱数据……</string>
+	<key>Root Filesystem successfully remounted!</key>
+	<string>根文件系统（RFS）已成功被重新加载！</string>
+	<key>Setting up Cydia packages...</key>
+	<string>正在设置 Cydia 软件包……</string>
+	<key>Setting up Cydia...</key>
+	<string>正在设置 Cydia……</string>
+	<key>Setting up extra packages...</key>
+	<string>正在设置额外的软件包……</string>
+	<key>Setting up fstab and AFC2...</key>
+	<string>正在设置 fstab 和 AFC2……</string>
+	<key>Sorry, the version of iOS of the attached device is not supported.</key>
+	<string>连接的设备的 iOS 版本不被支持。</string>
+	<key>Support Us (PayPal)</key>
+	<string>支持我们（PayPal）</string>
+	<key>The attached device has a backup password set. You need to disable the backup password in iTunes before you can continue.
+Start iTunes, remove the backup password and start this Program again.</key>
+	<string>已连接设备的备份使用了密码保护。越狱之前请在 iTunes 中关闭该设备的备份密码。
+开启 iTunes，移除备份密码，然后再次运行本程序。</string>
+	<key>The attached device is not activated. You need to activate it before you can apply the jailbreak.</key>
+	<string>已连接的设备尚未激活。您需要先激活才能开始越狱。</string>
+	<key>Timeout waiting for user to tap on the icon... trying to continue anyway...</key>
+	<string>等待用户点击图标超时……仍然尝试继续……</string>
+	<key>To continue, please unlock your device and tap the new 'Jailbreak' icon. Only tap it once! The screen will go black and then return to the home screen.</key>
+	<string>请解锁您的设备，并点击新生成的“越狱（Jailbreak）”图标以继续。请务必只点击一次图标！设备屏幕会在点击后变黑并回到主屏幕。</string>
+	<key>Uploading Cydia packages list... (Do not touch your device)</key>
+	<string>正在上传 Cydia 软件包列表……（请不要触摸您的设备）</string>
+	<key>Uploading Cydia... (Do not touch your device)</key>
+	<string>正在上传 Cydia……（请不要触摸您的设备）</string>
+	<key>Uploading extra packages... (Do not touch your device)</key>
+	<string>正在上传额外的软件包……（请不要触摸您的设备）</string>
+	<key>Waiting for device reboot...</key>
+	<string>正在等待设备重新启动……</string>
+	<key>Waiting for device reboot... (Do not touch your device)</key>
+	<string>正在等待设备重新启动……（请不要触摸您的设备）</string>
+	<key>Waiting for device to be ready...</key>
+	<string>正在等待设备就绪……</string>
+	<key>Waiting for device to be ready... (Do not touch your device)</key>
+	<string>正在等待设备就绪……（请不要触摸您的设备）</string>
+	<key>Welcome! evasi0n is an untethered jailbreak for iOS 6.0 through 6.1.2.</key>
+	<string>欢迎！evasi0n 可正常越狱 iOS 6.0 至 6.1.2 （无需电脑辅助引导启动）。</string>
+	<key>Xcode is running. YOU HAVE TO QUIT Xcode AND reboot your idevice, otherwise the jailbreak procedure WILL FAIL.</key>
+	<string>Xcode 正在运行。您必须退出 Xcode 并重新启动您的设备，否则越狱会失败。</string>
+	<key>You must install iTunes for this program to work.</key>
+	<string>本程序需要 iTunes 才能正常工作。</string>
+	<key>You must run this app as Administrator.</key>
+	<string>您必须以管理员身份运行此程序。</string>
+	<key>Your device appears to be using a semi-tether jailbreak. Please use the evasi0n untether package from Cydia to untether instead.</key>
+	<string>您的设备似乎是使用的需电脑辅助引导启动的越狱。请于 Cydia 中安装 evasi0n Untether 软件包。</string>
+	<key>evasi0n</key>
+	<string>evasi0n</string>
+	<key>evasi0n © 2013</key>
+	<string>evasi0n © 2013</string>
+	<key>failed to connect to AFC</key>
+	<string>无法连接到 AFC 服务</string>
+	<key>failed to connect to device :(</key>
+	<string>无法连接到设备 :(</string>
+	<key>failed to connect to lockdownd :(</key>
+	<string>无法连接到 lockdownd :(</string>
+	<key>failed to get data files</key>
+	<string>无法获取数据文件</string>
+	<key>failed to make directory</key>
+	<string>无法创建目录</string>
+	<key>failed to upload file</key>
+	<string>无法上传文件</string>
+	<key>http://evasi0n.com</key>
+	<string>http://evasi0n.com</string>
+	<key>http://evasi0n.com/</key>
+	<string>http://evasi0n.com/</string>
+	<key>https://twitter.com/evad3rs</key>
+	<string>https://twitter.com/evad3rs</string>
+	<key>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=36S6KLTRK7FTQ</key>
+	<string>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=36S6KLTRK7FTQ</string>
+	<key>jailbreak exploits by @planetbeing and @pimskeks.
+graphic design by @Surenix - interface by Hanéne Samara.</key>
+	<string>越狱所需漏洞由 @planetbeing 和 @pimskeks 发现。
+图像：@Surenix 界面：Hanéne Samara 中文：Merlin Mao (autopear)</string>
+</dict>
+</plist>

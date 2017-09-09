@@ -1,0 +1,46 @@
+Version 1.5.3
+~~~~~~~~~~~~~
+- Fix bugs with the Windows version.
+
+Version 1.5.2
+~~~~~~~~~~~~~
+- Added French translation.
+- Added Chinese translation.
+- Added German translation.
+- Updated bundled Cydia with localization fixes.
+- Updated included Cydia package list.
+
+Version 1.5.1
+~~~~~~~~~~~~~
+- Updated included Cydia package list.
+
+Version 1.5
+~~~~~~~~~~~
+- Improved boot-up time.
+- Updated included Cydia package list.
+
+Version 1.4
+~~~~~~~~~~~
+- Support for 6.1.2.
+
+Version 1.3
+~~~~~~~~~~~
+- Support for 6.1.1 on the iPhone 4S.
+
+Version 1.2
+~~~~~~~~~~~
+- Disable OTA updates.
+- Correct timezone issue in evasi0n binary if client fails to correct it.
+
+Version 1.1
+~~~~~~~~~~~
+- prevent Weather app from appearing on iPads.
+- mitigated the long reboot issue.
+- fix issue with not working after connecting multiple iOS devices
+- fix blinking of the jailbreak instructions on OS X.
+- codesigned Mac app.
+
+Version 1.0
+~~~~~~~~~~~
+- first public release
+

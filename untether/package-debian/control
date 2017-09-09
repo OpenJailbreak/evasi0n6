@@ -1,0 +1,11 @@
+Package: com.evad3rs.evasi0n
+Priority: optional
+Section: System
+Maintainer: evad3rs <info@evad3rs.com>
+Architecture: iphoneos-arm
+Version: 0.4.1-1
+Depends: coreutils-bin, firmware (>= 6.0), firmware (<= 6.1.2)
+Description: untethered jailbreak based on planetbeing and nikias exploits
+Author: evad3rs <info@evad3rs.com>
+Name: evasi0n 6.0-6.1.2 Untether
+Depiction: http://cydia.saurik.com/info/com.evad3rs.evasi0n/

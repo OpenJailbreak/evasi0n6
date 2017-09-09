@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>%s (iOS %s) is already jailbroken. Jailbreaking it again is NOT recommended.</key>
+	<string>%s (iOS %s) hat bereits einen Jailbreak. Es wird NICHT empfohlen den Jailbreak erneut anzuwenden.</string>
+	<key>%s (iOS %s) is supported. Click Jailbreak to begin.</key>
+	<string>%s (iOS %s) wird unterstützt. Klicke auf 'Jailbreak' um zu beginnen.</string>
+	<key>%s - Version %s</key>
+	<string>%s - Version %s</string>
+	<key>@evad3rs</key>
+	<string>@evad3rs</string>
+	<key>Alright! Remounting will start now. Do NOT tap the icon again -- just wait.</key>
+	<string>OK! Remount wird nun ausgeführt. Bitte NICHT erneut auf das Icon tippen -- einfach warten.</string>
+	<key>Cleaning up...</key>
+	<string>Räume auf...</string>
+	<key>Connect your iPhone, iPod touch, or iPad to begin.</key>
+	<string>Verbinde dein iPhone, iPod touch oder iPad um zu beginnen.</string>
+	<key>Connecting to device...</key>
+	<string>Verbinde zum Gerät...</string>
+	<key>Continuing...</key>
+	<string>Wird fortgesetzt...</string>
+	<key>Could not add file to backup</key>
+	<string>Konnte Datei nicht zum Backup hinzufügen</string>
+	<key>Could not connect to device!</key>
+	<string>Verbindung zum Gerät fehlgeschlagen!</string>
+	<key>Could not connect to device?!</key>
+	<string>Verbindung zum Gerät fehlgeschlagen?!</string>
+	<key>Could not create backup.</key>
+	<string>Backup konnte nicht erstellt werden.</string>
+	<key>Could not find device in connected state?!</key>
+	<string>Konnte das Gerät nicht in verbundenem Zustand finden?!</string>
+	<key>Could not get binary plist blob</key>
+	<string>Konnte die Binärdaten der Plist nicht laden</string>
+	<key>Could not get com.apple.mobile.installation.plist</key>
+	<string>Konnte com.apple.mobile.installation.plist nicht laden</string>
+	<key>Could not open backup</key>
+	<string>Backup konnte nicht geöffnet werden</string>
+	<key>Could not remount root filesystem</key>
+	<string>Root-Dateisystem konnte nicht remounted werden</string>
+	<key>Couldn't add Icon-72.png to backup</key>
+	<string>Konnte Icon-72.png nicht zum Backup hinzufügen</string>
+	<key>Couldn't add Icon-72@2x.png to backup</key>
+	<string>Konnte Icon-72@2x.png nicht zum Backup hinzufügen</string>
+	<key>Couldn't add Icon.png to backup</key>
+	<string>Konnte Icon.png nicht zum Backup hinzufügen</string>
+	<key>Couldn't add Icon@2x.png to backup</key>
+	<string>Konnte Icon@2x.png nicht zum Backup hinzufügen</string>
+	<key>Couldn't add Info.plist to backup</key>
+	<string>Konnte Info.plist nicht zum Backup hinzufügen</string>
+	<key>Couldn't add csstore to backup</key>
+	<string>Konnte csstore nicht zum Backup hinzufügen</string>
+	<key>Couldn't add dir to backup</key>
+	<string>Konnte Verzeichnis nicht zum Backup hinzufügen</string>
+	<key>Couldn't add evasi0n dir</key>
+	<string>Konnte evasi0n-Verzeichnis nicht hinzufügen</string>
+	<key>Couldn't add executable to backup</key>
+	<string>Konnte Programm nicht zum Backup hinzufügen</string>
+	<key>Couldn't add file to backup</key>
+	<string>Konnte Datei nicht zum Backup hinzufügen</string>
+	<key>Couldn't add file to backup!</key>
+	<string>Konnte Datei nicht zum Backup hinzufügen!</string>
+	<key>Couldn't add install plist to backup</key>
+	<string>Konnte install plist nicht zum Backup hinzufügen</string>
+	<key>Creating backup...</key>
+	<string>Erstelle Backup...</string>
+	<key>Cydia is missing from resources</key>
+	<string>Cydia ist nicht in den Resourcen enthalten</string>
+	<key>Device did not reboot?!</key>
+	<string>Gerät hat nicht neugestartet?!</string>
+	<key>Device did not reconnect after reboot?!</key>
+	<string>Gerät hat sich nach dem Neustart nicht neu verbunden?!</string>
+	<key>Device is locked with a passcode. Please enter it NOW; the procedure will then continue.</key>
+	<string>Gerät ist mit einer Code-Sperre gesperrt. Bitte gib ihn JETZT ein; der Vorgang wird dann fortgesetzt.</string>
+	<key>Done! Continuing boot...</key>
+	<string>Fertig! Startvorgang läuft...</string>
+	<key>ERROR: Device has a passcode set! If a passcode is set, the jailbreak procedure will most likely fail. Unplug device, go to Settings and DISABLE THE PASSCODE, then plug it back in.</key>
+	<string>FEHLER: Gerät hat eine Code-Sperre! Mit einer aktiven Code-Sperre wird der Jailbreak wahrscheinlich fehlschlagen. Trenne das Gerät, gehe in Einstellungen und DEAKTIVIERE DIE CODE-SPERRE, dann verbinde das Gerät wieder mit dem Computer.</string>
+	<key>ERROR: could not open backup</key>
+	<string>FEHLER: konnte das Backup nicht öffnen</string>
+	<key>Error</key>
+	<string>Fehler</string>
+	<key>Error detecting device (lockdown error %d)</key>
+	<string>Geräte-Erkennung fehlgeschlagen (lockdown Fehler %d)</string>
+	<key>Error detecting device type (idevice error %d)</key>
+	<string>Geräte-Typ konnte nicht erkannt werden (idevice Fehler %d)</string>
+	<key>Error detecting device. Try reconnecting it.</key>
+	<string>Gerät konnte nicht erkannt werden. Versuche, es erneut zu verbinden.</string>
+	<key>Error getting build version (lockdownd error %d)</key>
+	<string>Konnte Build-Version nicht lesen (lockdownd Fehler %d)</string>
+	<key>Error getting product type (lockdown error %d)</key>
+	<string>Konnte Produkttyp nicht lesen (lockdown Fehler %d)</string>
+	<key>Error getting product version (lockdownd error %d)</key>
+	<string>Konnte Produkt-Version nicht lesen (lockdownd Fehler %d)</string>
+	<key>Error: Couldn't add file to backup!</key>
+	<string>Fehler: konnte Datei nicht zum Backup hinzufügen!</string>
+	<key>Exit</key>
+	<string>Beenden</string>
+	<key>Failed to get BuildVersion from lockdown.</key>
+	<string>Konnte BuildVersion nicht von lockdown abfragen.</string>
+	<key>Failed to get DeviceName from lockdown.</key>
+	<string>Konnte DeviceName nicht von lockdown abfragen.</string>
+	<key>Failed to get ProductType from lockdown.</key>
+	<string>Konnte ProductType nicht von lockdown abfragen.</string>
+	<key>Failed to get ProductVersion from lockdown.</key>
+	<string>Konnte ProductVersion nicht von lockdown abfragen.</string>
+	<key>Failed to get SerialNumber from lockdown.</key>
+	<string>Konnte SerialNumber nicht von lockdown abfragen.</string>
+	<key>Finding offsets...</key>
+	<string>Suche Offsets...</string>
+	<key>Initializing offsets...</key>
+	<string>Initialisiere Offsets...</string>
+	<key>Injecting final jailbreak data...</key>
+	<string>Injiziere endgültige Jailbreak-Daten...</string>
+	<key>Injecting remount payload...</key>
+	<string>Injiziere Remount-Payload...</string>
+	<key>Injecting stage 1 jailbreak data...</key>
+	<string>Injiziere Stufe 1 Jailbreak-Daten...</string>
+	<key>Injecting stage 2 jailbreak data (step 1/3)... (Do not touch your device)</key>
+	<string>Injiziere Stufe 2 Jailbreak-Daten (Schritt 1/3)... (Gerät bitte nicht anfassen)</string>
+	<key>Injecting stage 2 jailbreak data (step 2/3)... (Do not touch your device)</key>
+	<string>Injiziere Stufe 2 Jailbreak-Daten (Schritt 2/3)... (Gerät bitte nicht anfassen)</string>
+	<key>Injecting stage 2 jailbreak data (step 3/3)... (Do not touch your device)</key>
+	<string>Injiziere Stufe 2 Jailbreak-Daten (Schritt 3/3)... (Gerät bitte nicht anfassen)</string>
+	<key>Jailbreak</key>
+	<string>Jailbreak</string>
+	<key>Jailbreak complete! The device may restart a few times as it completes the process.</key>
+	<string>Jailbreak vollständig! Das Gerät wird nun eigenständig mehrere Male neu starten um den Vorgang abzuschließen.</string>
+	<key>NOTE: Please make a backup of your device before applying the jailbreak.
+We don't think there will be any problems, but we can't make any guarantees.
+Use evasi0n at your own risk.</key>
+	<string>HINWEIS: Bitte erstelle ein Backup deines Gerätes vor dem Jailbreaken.
+Wir denken nicht, dass Probleme auftreten, aber wir können keine Garantie dafür übernehmen. Die Verwendung von evasi0n erfolgt auf eigenes Risiko.</string>
+	<key>Packagelist is missing from resources</key>
+	<string>Packagelist ist nicht in den Resourcen enthalten</string>
+	<key>Patching kernel...</key>
+	<string>Patche Kernel...</string>
+	<key>Please attach only one device.</key>
+	<string>Bitte verbinde nur ein Gerät.</string>
+	<key>Preparing final jailbreak data...</key>
+	<string>Bereite endgültige Jailbreak-Daten vor...</string>
+	<key>Preparing stage 1 jailbreak data...</key>
+	<string>Bereite Stufe 1 Jailbreak-Daten vor...</string>
+	<key>Preparing stage 2 jailbreak data... (Do not touch your device)</key>
+	<string>Bereite Stufe 2 Jailbreak-Daten vor... (Gerät bitte nicht anfassen)</string>
+	<key>Rebooting...</key>
+	<string>Neustart...</string>
+	<key>Retrieving information from the device to generate jailbreak data...</key>
+	<string>Hole Informationen vom Gerät um Jailbreak-Daten zu erzeugen...</string>
+	<key>Root Filesystem successfully remounted!</key>
+	<string>Root-Dateisystem wurde erfolgreich remounted!</string>
+	<key>Setting up Cydia packages...</key>
+	<string>Richte Cydia-Pakete ein...</string>
+	<key>Setting up Cydia...</key>
+	<string>Richte Cydia ein...</string>
+	<key>Setting up extra packages...</key>
+	<string>Richte Extra-Pakete ein...</string>
+	<key>Setting up fstab and AFC2...</key>
+	<string>Richte fstab und AFC2 ein...</string>
+	<key>Sorry, the version of iOS of the attached device is not supported.</key>
+	<string>Entschuldigung, die iOS-Version des verbundenen Gerätes wird nicht unterstützt.</string>
+	<key>Support Us (PayPal)</key>
+	<string>Unterstütze uns (PayPal)</string>
+	<key>The attached device has a backup password set. You need to disable the backup password in iTunes before you can continue.
+Start iTunes, remove the backup password and start this Program again.</key>
+	<string>Das verbundene Gerät hat ein Backup-Passwort. Du musst das Backup-Passwort in iTunes deaktiveren bevor du fortfahren kannst. Starte iTunes, deaktiviere das Backup-Passwort und führe dieses Programm erneut aus.</string>
+	<key>The attached device is not activated. You need to activate it before you can apply the jailbreak.</key>
+	<string>Das verbundene Gerät ist nicht aktiviert. Es muss aktiviert werden bevor der Jailbreak angewendet werden kann.</string>
+	<key>Timeout waiting for user to tap on the icon... trying to continue anyway...</key>
+	<string>Zeitüberschreitung beim Warten darauf, dass der Benutzer auf das Icon tippt... versuche trotzdem fortzufahren...</string>
+	<key>To continue, please unlock your device and tap the new 'Jailbreak' icon. Only tap it once! The screen will go black and then return to the home screen.</key>
+	<string>Um fortzufahren entsperre jetzt dein Gerät und tippe auf das neu angelegte 'Jailbreak' Icon. Tippe nur einmal darauf! Der Bildschirm wird kurz schwarz und zeigt dann gleich wieder den Home-Bildschirm an.</string>
+	<key>Uploading Cydia packages list... (Do not touch your device)</key>
+	<string>Übertrage Cydia Paketliste... (Gerät bitte nicht anfassen)</string>
+	<key>Uploading Cydia... (Do not touch your device)</key>
+	<string>Übertrage Cydia... (Gerät bitte nicht anfassen)</string>
+	<key>Uploading extra packages... (Do not touch your device)</key>
+	<string>Übertrage Extra Pakete... (Gerät bitte nicht anfassen)</string>
+	<key>Waiting for device reboot...</key>
+	<string>Warte auf Neustart des Gerätes...</string>
+	<key>Waiting for device reboot... (Do not touch your device)</key>
+	<string>Warte auf Neustart des Gerätes... (Gerät bitte nicht anfassen)</string>
+	<key>Waiting for device to be ready...</key>
+	<string>Warte bis Gerät bereit ist...</string>
+	<key>Waiting for device to be ready... (Do not touch your device)</key>
+	<string>Warte bis Gerät bereit ist... (Gerät bitte nicht anfassen)</string>
+	<key>Welcome! evasi0n is an untethered jailbreak for iOS 6.0 through 6.1.2.</key>
+	<string>Willkommen! evasi0n ist ein Untethered Jailbreak für iOS 6.0 bis 6.1.2.</string>
+	<key>Xcode is running. YOU HAVE TO QUIT Xcode AND reboot your idevice, otherwise the jailbreak procedure WILL FAIL.</key>
+	<string>Xcode läuft noch. DU MUSST Xcode BEENDEN UND dein Gerät NEUSTARTEN, ansonsten wird der Jailbreak-Vorgang FEHLSCHLAGEN.</string>
+	<key>You must install iTunes for this program to work.</key>
+	<string>iTunes muss installiert sein damit dieses Programm funktioniert.</string>
+	<key>You must run this app as Administrator.</key>
+	<string>Dieses Programm muss als Administrator ausgeführt werden.</string>
+	<key>Your device appears to be using a semi-tether jailbreak. Please use the evasi0n untether package from Cydia to untether instead.</key>
+	<string>Dein Gerät scheint bereits einen Semi-tethered Jailbreak zu haben. Bitte installiere stattdessen das evasi0n untether Paket über Cydia.</string>
+	<key>evasi0n</key>
+	<string>evasi0n</string>
+	<key>evasi0n © 2013</key>
+	<string>evasi0n © 2013</string>
+	<key>failed to connect to AFC</key>
+	<string>konnte nicht zu AFC verbinden</string>
+	<key>failed to connect to device :(</key>
+	<string>konnte nicht zum Gerät verbinden :(</string>
+	<key>failed to connect to lockdownd :(</key>
+	<string>konnte nicht zu lockdownd verbinden :(</string>
+	<key>failed to get data files</key>
+	<string>konnte Daten-Dateien nicht holen</string>
+	<key>failed to make directory</key>
+	<string>konnte Verzeichnis nicht erstellen</string>
+	<key>failed to upload file</key>
+	<string>konnte Datei nicht übertragen</string>
+	<key>http://evasi0n.com</key>
+	<string>http://evasi0n.com</string>
+	<key>http://evasi0n.com/</key>
+	<string>http://evasi0n.com/</string>
+	<key>https://twitter.com/evad3rs</key>
+	<string>https://twitter.com/evad3rs</string>
+	<key>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=36S6KLTRK7FTQ</key>
+	<string>https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&amp;hosted_button_id=36S6KLTRK7FTQ</string>
+	<key>jailbreak exploits by @planetbeing and @pimskeks.
+graphic design by @Surenix - interface by Hanéne Samara.</key>
+	<string>Jailbreak Exploits von @planetbeing und @pimskeks.
+Grafikdesign von @Surenix - Benutzerinterface von Hanéne Samara.</string>
+</dict>
+</plist>

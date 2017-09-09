@@ -1,0 +1,1 @@
+#define EVASI0N_VERSION_STRING "1.5.3"
